@@ -28,6 +28,9 @@ cd Zombos
 pip install -r requirements.txt
 python3 main.py
 ```
+## 📷 Oyun İçi Görüntü
+
+![Oyun ekran görüntüsü](screenshots/zombos.png)
 
 ## 👤 Öğrenci Bilgileri
 
