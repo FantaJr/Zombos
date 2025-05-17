@@ -30,7 +30,7 @@ python3 main.py
 ```
 ## 📷 Oyun İçi Görüntü
 
-![Oyun ekran görüntüsü](screenshots/zombos.png)
+![Oyun ekran görüntüsü](zombos/screenshots/zombos.png)
 
 ## 👤 Öğrenci Bilgileri
 
