@@ -5,9 +5,9 @@ Zombos, Python ve Pygame kullanılarak geliştirilmiş bir 2D hayatta kalma oyun
 ## 🎮 Oynanış
 
 - Oyuncu bir karakteri yönlendirerek zombilerle savaşır.
-- Her dalga, daha zorlu ve daha hızlı zombilerle birlikte gelir.
+- Her dalga, daha fazla zombilerle birlikte gelir.
 - Oyunda 3 farklı zombi türü bulunmaktadır:
-  - **Normal Zombi**: Kolayca öldürülebilir ama sayıca fazladır.
+  - **Normal Zombi**: Normal hareket eder, verdiği hasar ortalamadır.
   - **Hızlı Zombi**: Hızlı hareket eder, yakalanması ve kaçılması zordur.
   - **Tank Zombi**: Yavaş ama dayanıklıdır, daha fazla hasar verir.
 
@@ -15,7 +15,7 @@ Zombos, Python ve Pygame kullanılarak geliştirilmiş bir 2D hayatta kalma oyun
 
 - `W`, `A`, `S`, `D`: Hareket  
 - `Mouse`: Nişan alma ve ateş etme  
-- `ESC`: Oyunu duraklat  
+- `ESC`: Oyunu kapat  
 - `1`, `2`, `3`: Pistol, Shotgun, Minigun  
 
 ## 🛠️ Kurulum
